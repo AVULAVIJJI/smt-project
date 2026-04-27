@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
-  },
+},
   "dependencies": {
     "vite": "^5.1.4",
     "@vitejs/plugin-react": "^4.2.1",
