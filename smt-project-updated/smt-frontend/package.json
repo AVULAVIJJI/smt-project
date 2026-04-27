@@ -20,7 +20,9 @@
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.1.4"
 },
-"engines": {
-    "node": "18.x"
-}
+
+  "engines": {
+    "node": "24.x"
+  }
+
 }
